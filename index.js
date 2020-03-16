@@ -19,3 +19,4 @@ for (let i = 0; i < input.length; i++) {
 console.log(resultArray.join('').toUpperCase());
 }
 // call toWhale('your text'); to speak fluent whale!
+toWhale('I am thegu5. I can speak fluent whale!');
